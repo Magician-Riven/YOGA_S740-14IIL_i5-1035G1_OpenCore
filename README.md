@@ -104,7 +104,7 @@ Use following command to build the EFI.
 使用下述指令编译 EFI：
 
 ```bash
-git clone https://github.com/Zero-zer0/YOGA_S740-14IIL_i5-1035G1_OpenCore
+git clone https://github.com/nan1jueze/YOGA_S740-14IIL_i5-1035G1_OpenCore
 cd YOGA_S740-14IIL_i5-1035G1_OpenCore
 chmod +x **/*.sh
 ./build.sh
